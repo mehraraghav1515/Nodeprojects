@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "test node project for upload to git",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehraraghav1515/NodeProjects.git"
+  },
+  "author": "raghav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehraraghav1515/NodeProjects/issues"
+  },
+  "homepage": "https://github.com/mehraraghav1515/NodeProjects#readme"
+}
